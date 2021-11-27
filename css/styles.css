@@ -1,0 +1,31 @@
+body {
+    font-family: 'Arimo', sans-serif;
+    background-color: #D8D3BD;
+    color: #4C547D;
+}
+
+.jumbotron {
+    background-color: #7E86B1;
+    padding: 0;
+}
+
+.nav {
+    padding-bottom: 10px;
+}
+
+.nav a {
+    color: white;
+}
+
+.nav-pills .nav-link.active {
+    background-color: #4C547D;
+}
+
+.site-footer {
+    color: #4C547D;
+}
+
+.btn-primary {
+    background-color: #4C547D;
+    border-color: #4C547D;
+}
